@@ -1,0 +1,23 @@
+
+<resources>
+
+        <string name="app_name">DiceApp</string>
+
+        <string name="save_button_text">Save</string>
+        <string name="result_text">Result:</string>
+    <string name="sides_prompt">Select number of sides:</string>
+        <string name="roll_once">Roll once</string>
+        <string name="roll_twice">Roll twice</string>
+
+
+    <!-- arrays.xml -->
+
+        <array name="sides_array">
+            <item>4</item>
+            <item>6</item>
+            <item>8</item>
+            <item>10</item>
+            <item>12</item>
+            <item>20</item>
+        </array>
+</resources>
